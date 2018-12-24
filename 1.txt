@@ -1,2 +1,8 @@
 wwwwwwww
 2323
+这是一个新的文件，被我修改
+<script type="text/javascript">
+  var a = 1;
+  var b = 2;
+  console.log(a + b)
+</script>
