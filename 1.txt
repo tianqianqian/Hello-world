@@ -6,3 +6,5 @@ wwwwwwww
   var b = 2;
   console.log(a + b)
 </script>
+多多少少
+
