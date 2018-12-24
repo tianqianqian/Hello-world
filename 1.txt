@@ -4,6 +4,9 @@ wwwwwwww
 <script type="text/javascript">
   var a = 1;
   var b = 2;
+  function add (a, b) {
+    return a + b
+  }
   console.log(a + b)
 </script>
 多多少少
